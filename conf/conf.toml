@@ -1,0 +1,5 @@
+[[annotation]]
+file="/results/sdgs-resources/hg19/ExAC.r0.3.1.sites.vep.vcf.gz"
+fields = ["AF"]
+names = ["AF_exac"]
+ops=["concat"]

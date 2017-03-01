@@ -1,0 +1,7 @@
+pysam
+pyvcf
+matplotlib
+pandas
+scipy
+seaborn
+progressbar
